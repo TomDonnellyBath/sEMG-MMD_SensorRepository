@@ -1,0 +1,43 @@
+2025-10-01 10:55:13,324 - app_logger - INFO - creating QApp
+2025-10-01 10:55:13,330 - app_logger - INFO - Attaching MainWindow to App
+2025-10-01 10:55:13,330 - app_logger.MainWindow - INFO - Setting up widgets.
+2025-10-01 10:55:13,330 - app_logger.ControlsWidget - INFO - Setting up widgets.
+2025-10-01 10:55:13,343 - app_logger.ControlsWidget - INFO - Setting up signals.
+2025-10-01 10:55:13,343 - app_logger.ControlsWidget - INFO - Setting up layout.
+2025-10-01 10:55:13,343 - app_logger.ControlsWidget - INFO - Finalising.
+2025-10-01 10:55:14,814 - app_logger.EMGDisplayWidget - INFO - Setting up widgets.
+2025-10-01 10:55:14,839 - app_logger.EMGDisplayWidget - INFO - Setting up signals.
+2025-10-01 10:55:14,839 - app_logger.EMGDisplayWidget - INFO - Setting up layout.
+2025-10-01 10:55:14,839 - app_logger.EMGDisplayWidget - INFO - Finalising.
+2025-10-01 10:55:14,842 - app_logger.ProgressDisplayWidget - INFO - Setting up widgets.
+2025-10-01 10:55:14,842 - app_logger.ProgressDisplayWidget - INFO - Setting up signals.
+2025-10-01 10:55:14,842 - app_logger.ProgressDisplayWidget - INFO - Setting up layout.
+2025-10-01 10:55:14,842 - app_logger.ProgressDisplayWidget - INFO - Finalising.
+2025-10-01 10:55:14,842 - app_logger.SerialComWidget - INFO - Setting up widgets.
+2025-10-01 10:55:14,842 - app_logger.SerialComWidget - INFO - Setting up signals.
+2025-10-01 10:55:14,842 - app_logger.SerialComWidget - INFO - Setting up layout.
+2025-10-01 10:55:14,842 - app_logger.SerialComWidget - INFO - Finalising.
+2025-10-01 10:55:14,842 - app_logger.StimulusDisplayWidget - INFO - Setting up widgets.
+2025-10-01 10:55:17,121 - app_logger.StimulusDisplayWidget - INFO - Setting up signals.
+2025-10-01 10:55:17,121 - app_logger.StimulusDisplayWidget - INFO - Setting up layout.
+2025-10-01 10:55:17,121 - app_logger.StimulusDisplayWidget - INFO - Finalising.
+2025-10-01 10:55:17,121 - app_logger.UtilDisplayWidget - INFO - Setting up widgets.
+2025-10-01 10:55:17,121 - app_logger.UtilDisplayWidget - INFO - Setting up signals.
+2025-10-01 10:55:17,129 - app_logger.UtilDisplayWidget - INFO - Setting up layout.
+2025-10-01 10:55:17,129 - app_logger.UtilDisplayWidget - INFO - Finalising.
+2025-10-01 10:55:17,130 - app_logger.ParticipantWindowWidget - INFO - Setting up widgets.
+2025-10-01 10:55:17,130 - app_logger.StimulusDisplayWidget - INFO - Setting up widgets.
+2025-10-01 10:55:19,768 - app_logger.StimulusDisplayWidget - INFO - Setting up signals.
+2025-10-01 10:55:19,768 - app_logger.StimulusDisplayWidget - INFO - Setting up layout.
+2025-10-01 10:55:19,768 - app_logger.StimulusDisplayWidget - INFO - Finalising.
+2025-10-01 10:55:19,768 - app_logger.ProgressDisplayWidget - INFO - Setting up widgets.
+2025-10-01 10:55:19,768 - app_logger.ProgressDisplayWidget - INFO - Setting up signals.
+2025-10-01 10:55:19,768 - app_logger.ProgressDisplayWidget - INFO - Setting up layout.
+2025-10-01 10:55:19,768 - app_logger.ProgressDisplayWidget - INFO - Finalising.
+2025-10-01 10:55:19,768 - app_logger.ParticipantWindowWidget - INFO - Setting up signals.
+2025-10-01 10:55:19,768 - app_logger.ParticipantWindowWidget - INFO - Setting up layout.
+2025-10-01 10:55:19,768 - app_logger.ParticipantWindowWidget - INFO - Finalising.
+2025-10-01 10:55:19,768 - app_logger.MainWindow - INFO - Setting up signals.
+2025-10-01 10:55:19,770 - app_logger.MainWindow - INFO - Setting up layout.
+2025-10-01 10:55:19,770 - app_logger.MainWindow - INFO - Finalising.
+2025-10-01 10:55:20,067 - app_logger - INFO - Executing event loop
